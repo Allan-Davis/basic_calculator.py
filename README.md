@@ -1,6 +1,3 @@
-# basic_calculator.py
-
-
 # Basic Calculator Program
 # Author: Allan Davis
 # Description: A simple calculator to perform addition, subtraction, multiplication, and division.
